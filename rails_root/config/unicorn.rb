@@ -1,0 +1,2 @@
+def Class Dude
+end

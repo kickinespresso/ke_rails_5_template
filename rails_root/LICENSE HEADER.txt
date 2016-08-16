@@ -1,0 +1,5 @@
+Copyright (C) {year} {name} <{email}> - All Rights Reserved
+ 
+This file is part of {project}.
+ 
+{project} can not be copied and/or distributed without the express permission of {name}

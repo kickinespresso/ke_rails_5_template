@@ -2,16 +2,14 @@
 
 Run
  
- 
-    rails new peak_fitness -m ke_app_template/ke_template.rb
+    rails new cnd_blog -m ke_rails_5_template/ke_template.rb
 
-contract specs Appendix A.doc
-RevMgtSys Appendix A.xls
 
 TODO:
 
 Applications SCSS fix
-Contacts Controller and Mailers
+
+  Contacts Controller and Mailers
   contact_mailer.rb
   application_mailer.rb
 

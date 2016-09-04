@@ -11,7 +11,7 @@
 # Site Map Generation
 # Add Robots
 
-gem 'rails', '5.0.0.1'
+#gem 'rails', '5.0.0.1'
 def source_paths
   Array(super) +
     [File.join(File.expand_path(File.dirname(__FILE__)),'rails_root')]
